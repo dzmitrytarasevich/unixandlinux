@@ -1,6 +1,5 @@
-# unixandlinux
-##Unix and Linux system administration handbook 5th edition на русском.\
-##Руководство по системному администрированию Unix and Linux. 5-е издание на русском.\
+## Unix and Linux system administration handbook 5th edition на русском.\
+## Руководство по системному администрированию Unix and Linux. 5-е издание на русском.\
 1 Глава опубликована 4.12.2019 на мой день рождения)) \
 Планирую публиковать перевод раз в 1-2 недели.\
 Приятного чтения.
